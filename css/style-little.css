@@ -1,0 +1,96 @@
+@media (max-width: 589px){
+	.thirdMain .booking h2 span:before{
+		right: 19%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 22%;
+	}
+	.testimonials h5{
+		font-size: 13px;
+	}
+}
+@media (max-width: 545px){
+	.thirdMain .booking h2 span:before{
+		right: 18%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 21%;
+	}
+}
+@media (max-width: 519px){
+	.thirdMain .booking h1{
+		font-size: 55px;
+	}
+	.thirdMain .booking h2{
+		font-size: 25px;
+	}
+	.thirdMain .booking h2 span:before{
+		right: 21%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 24%;
+	}
+	.testimonials h5{
+		font-size: 11px;
+	}
+}
+@media (max-width: 497px){
+	.fourthMain .col-md-12 .fiveButton button{
+		font-size: 8px;
+		width: 16%;
+	}
+	.thirdMain .booking h2 span:before{
+		right: 19%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 22%;
+	}
+}
+@media (max-width: 463px){
+	.thirdMain .booking h2 span:before{
+		right: 38%;
+		top: 75%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 42%;
+	}
+}
+@media (max-width: 438px){
+	.thirdMain .booking h1{
+		font-size:45px;
+	}
+	.thirdMain .booking h2{
+		font-size: 15px;
+	}
+	.thirdMain .booking h2 span:before{
+		right: 28%;
+		top: 66%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 31%;
+		height: 2px;
+		width: 11%;
+	}
+	.fourthMain .col-md-12 .fiveButton button{
+		width: 22%;
+	}
+	.testimonials h5{
+		font-size: 9px;
+	}
+}
+@media (max-width: 417px){
+	.thirdMain .booking h2 span:before{
+		right: 27%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 31%;
+	}
+}
+@media (max-width: 400px){
+	.thirdMain .booking h2 span:before{
+		right: 24%;
+	}
+	.thirdMain .booking h2 span:after{
+		right: 30%;
+	}
+}

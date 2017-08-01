@@ -1,0 +1,125 @@
+@media (max-width: 769px){
+	.seventhMain .col-md-4 ul li a{
+		font-size: 10px;
+	}
+}
+@media (max-width: 762px){
+	.secondMain .search{
+		text-align: center;
+	}
+	.secondMain .search p{
+		display: block;
+		color: grey;
+		font-size: 25px;
+	}
+	.secondMain .search input{
+		text-align: center;
+		margin-bottom: 2%;
+		display: inline-block;
+		width: 90%;
+		border: 1px solid grey;
+	}
+	.thirdMain .booking h2 span:before{
+		right: 12%;
+	}
+	.fourthMain .col-md-12 .fiveButton button{
+		width: 15%;
+        font-size: 12px;
+	}
+	.seventhMain .col-md-4{
+		width: 30%;
+
+	}
+}
+@media (max-width: 715px){
+    .thirdMain .booking h1{
+    	font-size: 100px;
+    }
+    .thirdMain .booking h2{
+    	font-size:48px;
+    }
+	.testimonials h5{
+		font-size: 11px;
+	}
+}
+@media (max-width: 691px){
+	nav{
+		display: none;
+	}
+	select{
+		display: inline-block;
+		width: 90%;
+		background: lightgrey;
+		text-align: center;
+	}
+	.first_md4{
+		width: 100%;
+	}
+	.first_md6{
+		width: 90%;
+		display: inline-block;
+	}
+	.thirdMain .booking h1{
+        font-size: 70px;
+        margin:0 20px; 
+	}
+	.thirdMain .booking h2{
+        font-size: 30px;  
+        margin:0 20px; 
+	}
+	.thirdMain .booking h2 span:before{
+		right: 24%;
+		top: 71%;
+	}
+	.thirdMain .booking h2 span:after{
+		width: 16%;
+		right: 24%;
+	}
+	.firstScroll .scroll .mySlidess{
+		width: 42%;
+	}
+	.second_md6{
+		display: block;
+		width: 90%;
+	}
+	.sixtyMain .col-xs-6{
+		width: 90%;
+	}
+	.sixtyMain .col-xs-6 div{
+		border-top: 1px solid grey;
+	}
+	.sixtyMain .col-xs-12{
+		width: 90%;
+	}
+	.sixtyMain .col-xs-12 .border{
+		border-top: 1px solid grey;
+	}
+	.testimonials h5{
+		font-size: 15px;
+	}
+	.seventhMain .col-md-4{
+		width: 90%;
+		text-align: center;
+
+	}
+	.seventhMain .col-md-4 ul{
+		padding-top: 10px;
+	}
+	.seventhMain .col-md-4 ul li a{
+		font-size: 17px;
+	}
+}
+@media (max-width: 652px){
+	.thirdMain .booking h2 span:before{
+		right: 23%;
+	}
+}
+@media (max-width: 620px){
+	.thirdMain .booking h2 span:before{
+		right: 21%;
+	}
+	.fourthMain .col-md-12 .fiveButton button{
+		
+		font-size: 9px;
+	}
+}
